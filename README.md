@@ -203,5 +203,3 @@ Thanks to [JetBrains](https://jetbrains.com/?from=udemy-free-course-enroller) fo
 ### GitBook
 
 [![Gitbook](https://i.imgur.com/OkuB14I.jpg)](https://gitbook.com)
-
-Thanks to [Gitbook](https://gitbook.com) for supporting us. Gitbook is the best place to track personal notes and ideas for teams. If you think their product might help you, please support them.
