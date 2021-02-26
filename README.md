@@ -189,7 +189,3 @@ Pull request should be made on "develop" branch.
 Take a look at our
 [Roadmap here](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE/projects/1)
 and help us on what you want or talk to us about your proposed changes.
-
----
-
-## Supporters
