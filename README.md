@@ -11,8 +11,6 @@ web-scraping and automation, this script will find the necessary Udemy Coupons
 The code scrapes course links and coupons from
 [tutorialbar.com](https://tutorialbar.com)
 
-
-
 [![Udemy Auto-Course-Enroller](https://img.youtube.com/vi/IW8CCtv2k2A/0.jpg)](https://www.youtube.com/watch?v=IW8CCtv2k2A "GET PAID UDEMY Courses for FREE, Automatically with this Python Script!")
 
 ---
