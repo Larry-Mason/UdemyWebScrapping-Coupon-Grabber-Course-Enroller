@@ -36,7 +36,7 @@ Also, don't forget to **Fork & Star the repository if you like it!**
 ## Requirements:
 
 
-**Required Python version:** [Python 3.8+](https://www.python.org/downloads/)
+**Python version:** [Python 3.8+](https://www.python.org/downloads/)
 
 **You must have pip or poetry installed. Please look up how to install them in your OS.**
 
