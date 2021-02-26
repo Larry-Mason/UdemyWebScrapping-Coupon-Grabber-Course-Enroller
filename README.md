@@ -15,7 +15,6 @@ In case of any bugs or issues, please open an issue in github.
 
 Also, don't forget to **Fork & Star the repository if you like it!**
 
-**_Video Proof:_**
 
 [![Udemy Auto-Course-Enroller](https://img.youtube.com/vi/IW8CCtv2k2A/0.jpg)](https://www.youtube.com/watch?v=IW8CCtv2k2A "GET PAID UDEMY Courses for FREE, Automatically with this Python Script!")
 
