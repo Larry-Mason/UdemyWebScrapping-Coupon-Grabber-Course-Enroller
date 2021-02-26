@@ -196,4 +196,3 @@ and help us on what you want or talk to us about your proposed changes.
 
 ### Jetbrains
 
-[![JetBrains](https://i.imgur.com/h2R018M.jpg)](https://jetbrains.com/?from=udemy-free-course-enroller)
