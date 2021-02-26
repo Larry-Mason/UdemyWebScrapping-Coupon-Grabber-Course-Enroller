@@ -35,7 +35,6 @@ Also, don't forget to **Fork & Star the repository if you like it!**
 
 ## Requirements:
 
-### How to Install the Requirements?
 
 **Required Python version:** [Python 3.8+](https://www.python.org/downloads/)
 
