@@ -15,7 +15,6 @@ The code scrapes course links and coupons from
 
 ## **_Disclaimer & WARNINGS:_**
 
-
 1. **Use** this ONLY for **Educational Purposes!** By using this code you agree
    that **I'm not responsible for any kind of trouble** caused by the code.
 2. **Make sure web-scraping is legal in your region.**
