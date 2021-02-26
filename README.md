@@ -201,5 +201,3 @@ and help us on what you want or talk to us about your proposed changes.
 Thanks to [JetBrains](https://jetbrains.com/?from=udemy-free-course-enroller) for supporting us. They are the maker of world class IDE and developer tooling. If you think their product might help you, please support them. 
 
 ### GitBook
-
-[![Gitbook](https://i.imgur.com/OkuB14I.jpg)](https://gitbook.com)
