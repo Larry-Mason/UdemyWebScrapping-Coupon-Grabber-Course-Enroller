@@ -169,8 +169,6 @@ retrieved in the Python console/shell, which may take a while.
 ### 7. Which is the best way to run the script?
 
 It is recommended to run the script using your terminal and system python.
-
-
 ### 8. Which branch to commit against?
 
 Pull request should be made on "develop" branch.
